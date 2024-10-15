@@ -63,4 +63,4 @@ jobs:
           app-name: 'GerardoPalencia'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0EDC9E2DDB974D2B9663F93252ED8D80 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_029C436D3A904C4B8B898BDBB0A973F6 }}
